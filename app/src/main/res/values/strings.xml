@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">汇率换算</string>
+    <string name="input_content">请输入摄氏度（°）：</string>
+    <string name="button">转换为华氏度（F°）</string>
+    <string name="result">华氏度（F°）:</string>
+
+
+    <string name="app_name2">篮球计分:</string>
+    <string name="t1">TeamA</string>
+    <string name="t2">TeamB</string>
+    <string name="sc">0</string>
+    <string name="s3">+3 POINTS</string>
+    <string name="s2">+2 POINTS</string>
+    <string name="s1">+1 POINT</string>
+    <string name="reset">RESET</string>
+
+    <string name="show">0</string>
+    <string name="rmb_hint">Input RMB</string>
+    <string name="dollar">Dollor</string>
+    <string name="euro">Euro</string>
+    <string name="won">Won</string>
+    <string name="open_list_label">OpenList</string>
+
+
+</resources>
